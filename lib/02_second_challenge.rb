@@ -12,7 +12,9 @@ def second_challenge
       :heroin => {},
       :heroin_friends =>
       
-      }}
+      }
+    
+  }
 
   
 end
